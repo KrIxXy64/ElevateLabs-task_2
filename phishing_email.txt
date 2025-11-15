@@ -1,0 +1,23 @@
+From: “PayPal Support” security-alert@pypall-secure.com To:
+user@example.com Subject: Urgent Action Required! Your PayPal Account
+Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. For your
+security, your account has been temporarily suspended.
+
+To restore full access to your account, please verify your identity
+using the secure link below:
+
+https://paypal.verify-account-secure-login.com
+
+If you fail to complete this verification within 24 hours, your account
+will be permanently limited.
+
+For your convenience, we have attached the security validation report.
+Open the attached document and follow the instructions.
+
+Thank you for your cooperation. PayPal Account Security Team
+
+Note: This is an automated message. Do not reply.
